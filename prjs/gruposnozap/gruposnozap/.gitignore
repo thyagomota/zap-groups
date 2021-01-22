@@ -1,0 +1,6 @@
+# Ignore Mac System files
+.DS_store
+
+#Ignore these files
+
+directory.py
